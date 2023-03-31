@@ -1,0 +1,16 @@
+.up{
+    display: flex;
+    flex-direction: column;
+}
+.name{
+    font-size: 50px;
+    color: black;
+    font-family: 'Times New Roman', Times, serif;
+}
+.img{
+    width: 200px;
+}
+.all{
+    display: flex;
+    flex-direction:column;
+}
